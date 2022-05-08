@@ -1,9 +1,9 @@
 # Jogo de Naves
 
 ## Sobre o projeto.
+O objetivo do jogo é ajudar o prisioneiro a escapar dos inimigos. Você pilota e atira em um helicóptero, dando suporte para o soldado que está no chão correndo.
 
-
-Data de conclusão: 06/05/2022
+Data de conclusão: 08/05/2022
 
 ## Ferramentas e tecnologias usadas nesse projeto.
  
@@ -18,7 +18,7 @@ function JogoDeNaves(Project) {
 
 <div align="center">
 
-<img src="Projeto/img/readme.png" alt="Jogo de Naves" width="800"/>
+<img src="Projeto/img/readme1.png" alt="Resgate Jogo de Naves" width="800"/>
 
 </div>
 
