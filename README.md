@@ -1,4 +1,4 @@
-# Jogo de NAves
+# Jogo de Naves
 
 ## Sobre o projeto.
 
