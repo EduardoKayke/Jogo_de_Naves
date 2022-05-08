@@ -18,7 +18,7 @@ function JogoDeNaves(Project) {
 
 <div align="center">
 
-<img src="Projeto/img/readme1.png" alt="Resgate Jogo de Naves" width="800"/>
+<img src="Projeto/img/readme.png" alt="Resgate Jogo de Naves" width="800"/>
 
 </div>
 
